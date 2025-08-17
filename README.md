@@ -1,7 +1,7 @@
 # CODSOFT
 This repository is for my internship projects.
 
-Project 1:- Titanic Survival Prediction
+Project 1:- Titanic Survival Prediction :-
 This project is based on the famous *Titanic Dataset*. The goal is to predict whether a passenger survived or not based on features like age, gender, ticket class, etc.  
 DATASET
 The dataset contains information such as:
@@ -15,7 +15,7 @@ The dataset contains information such as:
 RESULT
 - Achieved good prediction accuracy on test data.  
 
-PROJECT 2:- Iris Flower Classification
+PROJECT 2:- Iris Flower Classification:-
 This project uses the classic **Iris dataset** to classify flowers into three species:  
 - Setosa  
 - Versicolor  
@@ -31,7 +31,7 @@ RESULT
 - Achieved high accuracy (>95%) with Random Forest and KNN classifiers.  
 - Data is well-separated.
 
-PROJECT 3:- Sales Prediction using Machine Learning
+PROJECT 3:- Sales Prediction using Machine Learning:-
 This project predicts product sales using features such as store type, item type, item visibility, etc. The main objective is to build a regression model that estimates sales accurately.
 DATASET
 The dataset contains columns like:  
